@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Java+Backend+Engineer;Spring+Boot+%7C+Distributed+Systems;Kafka+%7C+Databases+%7C+API+Integrations;Building+reliable+backend+services)](https://git.io/typing-svg)
 
 **6+ years building backend applications, integrations, and distributed systems.**  
-Based in Serbia · Open to relocation to Dubai / Abu Dhabi and international opportunities
+Based in Serbia · Open to relocation and international opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emirtotic.github.io/portfolio-site/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirtotic@gmail.com)
