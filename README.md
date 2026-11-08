@@ -9,6 +9,7 @@ Based in Serbia · Open to relocation and international opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emirtotic.github.io/portfolio-site/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirtotic@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/emirtotic/)
 
 </div>
 
@@ -58,7 +59,7 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 | **StatusPulse** | Uptime monitoring service with asynchronous checks and incident notifications | Rust, async backend, JWT |
 | **Mood Tracker** | Backend application with authentication and AI integration | Java, Spring Boot, Spring Security, JPA |
 
-> Explore more work and background on my [portfolio website](https://emirtotic.github.io/portfolio-site/). Project repository links can be added when verified.
+> Explore more work and background on my [portfolio website](https://emirtotic.github.io/portfolio-site/projects). Project repository links can be added when verified.
 
 ### GitHub activity
 
@@ -76,6 +77,12 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 
 **Let's build reliable software.**
 
-[Portfolio](https://emirtotic.github.io/portfolio-site/) · [Email](mailto:emirtotic@gmail.com)
+[Portfolio](https://emirtotic.github.io/portfolio-site/) · [LinkedIn](https://www.linkedin.com/in/emirtotic/) · [Email](mailto:emirtotic@gmail.com)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirtotic&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 </div>
