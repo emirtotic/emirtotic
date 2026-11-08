@@ -75,7 +75,7 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 
 <div align="center">
 
-**Let's build reliable software.**
+**Thanks for visiting**
 
 [Portfolio](https://emirtotic.github.io/portfolio-site/) · [LinkedIn](https://www.linkedin.com/in/emirtotic/) · [Email](mailto:emirtotic@gmail.com)
 
