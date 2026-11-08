@@ -67,7 +67,7 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emirtotic&theme=github-dark-blue&hide_border=true)
 
-[![Emir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emirtotic&theme=github-compact&hide_border=true)](https://github.com/emirtotic)
+![Emir's Activity Graph](https://YOUR-DEPLOYMENT.vercel.app/graph?username=emirtotic&theme=github-compact&hide_border=true)
 
 </div>
 
