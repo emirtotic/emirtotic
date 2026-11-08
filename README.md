@@ -68,12 +68,6 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emirtotic&theme=github-dark-blue&hide_border=true)
 
-<br>
-
-<a href="https://github.com/emirtotic?tab=repositories&sort=updated">
-  <img src="https://img.shields.io/github/last-commit/emirtotic/emirtotic?style=for-the-badge&logo=github&label=Last%20Commit&color=0A66C2" alt="Last Commit"/>
-</a>
-
 </div>
 
 
