@@ -8,8 +8,8 @@
 Based in Serbia · Open to relocation and international opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emirtotic.github.io/portfolio-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirtotic/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirtotic@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/emirtotic/)
 
 </div>
 
