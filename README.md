@@ -52,14 +52,15 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+
 ### Selected projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **StatusPulse** | Uptime monitoring service with asynchronous checks and incident notifications | Rust, async backend, JWT |
-| **Mood Tracker** | Backend application with authentication and AI integration | Java, Spring Boot, Spring Security, JPA |
+| Project | Description | Stack | Live |
+| --- | --- | --- | --- |
+| **Mood Tracker** | Backend application with authentication and AI integration | Java, Spring Boot, Spring Security, JPA | [🚀 Live Demo](https://moodtracker-app-production.up.railway.app/login) |
+| **StatusPulse** | Uptime monitoring service with asynchronous checks and incident notifications | Rust, async backend, JWT | [🚀 Live Demo](https://statuspulse.up.railway.app/) |
 
-> Explore more work and background on my [portfolio website](https://emirtotic.github.io/portfolio-site/projects). Project repository links can be added when verified.
+> Explore more projects and professional experience on my [Portfolio Website](https://emirtotic.github.io/portfolio-site/projects).
 
 
 ### GitHub activity
