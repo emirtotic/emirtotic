@@ -22,7 +22,7 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 - 🔭 Interested in scalable backend platforms and distributed systems
 - 🧠 Deepening my knowledge of system design, Java concurrency, and software architecture
 - 🦀 Also worked with Rust, Go, and gRPC on backend integrations
-- 🌍 Open to **Senior Java Backend Engineer** opportunities, particularly in the UAE
+- 🌍 Open to **Senior Backend Engineer** opportunities
 
 ### Tech stack
 
