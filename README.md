@@ -63,15 +63,6 @@ I'm a backend engineer focused on **Java, Spring Boot, REST APIs, event-driven a
 > Explore more projects and professional experience on my [Portfolio Website](https://emirtotic.github.io/portfolio-site/projects).
 
 
-### GitHub activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emirtotic&theme=github-dark-blue&hide_border=true)
-
-</div>
-
-
 ---
 
 <div align="center">
